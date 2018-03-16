@@ -5,4 +5,5 @@ export class Student {
     GPA: number;
     Major: string;
     Year: string;
+    SAT: number;
 }
